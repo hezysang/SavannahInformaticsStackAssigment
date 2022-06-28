@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.exe
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.deps.json
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.runtimeconfig.json
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.dll
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\ref\SavannahInformaticsStackAssigment.dll
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\bin\Debug\net5.0\SavannahInformaticsStackAssigment.pdb
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.dll
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\ref\SavannahInformaticsStackAssigment.dll
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.pdb
+C:\Users\DELL\Desktop\BackEnd\SavannahInformaticsStackAssigment\obj\Debug\net5.0\SavannahInformaticsStackAssigment.genruntimeconfig.cache
